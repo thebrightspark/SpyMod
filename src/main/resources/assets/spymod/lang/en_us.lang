@@ -1,0 +1,12 @@
+#Items
+
+item.bullet.name=Bullet
+item.pistol.name=Pistol
+item.pistolClip.name=Pistol Clip
+
+item.grenade.name=Grenade
+
+
+#Misc
+
+itemGroup.spymod=Spy Mod
